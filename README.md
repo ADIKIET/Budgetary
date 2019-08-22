@@ -1,4 +1,5 @@
-# hello-world
-just another repository
-hello i am aditya
-i have added a new feature
+#Budget App
+Steps to run the project
+1. Download or clone the project 
+2. 
+
