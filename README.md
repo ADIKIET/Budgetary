@@ -8,3 +8,5 @@ Things you can do
 1. Add sources of Income
 2. Add sources of Expenses
 
+Completely written in Javascript and HTML5
+
